@@ -4,7 +4,8 @@
 
 ### Hello, I'm Mingyo Kim!
 
-I am a Software Engineer from South Korea 🇰🇷. I am interested in backend, data science and machine learning and Quant.
+I am a Software Engineer from South Korea 🇰🇷. 
+<br>I am interested in backend, data science and machine learning and Quant.
 
 If you want to contact me, please leave me a message!
 
