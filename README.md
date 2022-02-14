@@ -4,7 +4,7 @@
 
 ### Hello, I'm Mingyo Kim!
 
-I am a machine learning developer from South Korea 🇰🇷. I am interested in data science and deep learning and Quant.
+I am a Software Engineer from South Korea 🇰🇷. I am interested in backend, data science and machine learning and Quant.
 
 If you want to contact me, please leave me a message!
 
@@ -23,10 +23,3 @@ If you want to contact me, please leave me a message!
 <a href="https://twitter.com/mgyo_kim" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
-
-
-
-
-
-
-
