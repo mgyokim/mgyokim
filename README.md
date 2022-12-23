@@ -9,7 +9,7 @@ I am a Software Engineer from South Korea 🇰🇷.
 
 If you want to contact me, please leave me a message!
 
-<a href="https://github.com/mgkim-developer" target="_blank">
+<a href="https://github.com/mgyokim" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.linkedin.com/in/mingyo-kim/" target="_blank">
