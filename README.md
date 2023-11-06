@@ -2,7 +2,7 @@
 
 ## Hi There 👋  
 
-### Hello, I'm MIN GYO KIM!
+### Hello, I'm MINGYO KIM!
 
 I am a Software Engineer from South Korea 🇰🇷. 
 <br>I am interested in backend, data science and machine learning and Quant.
